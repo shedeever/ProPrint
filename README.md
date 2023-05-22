@@ -1,4 +1,4 @@
-<b>[ProPrint telegram bot]</b>
+# ProPrint telegram bot
 
 Project for vending printing automat
 
